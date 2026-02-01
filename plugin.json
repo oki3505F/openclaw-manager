@@ -1,0 +1,18 @@
+{
+    "id": "vManager",
+    "name": "V-Manager",
+    "version": "1.0.0",
+    "description": "System Kill Switch for V Assistant",
+    "author": "V (Dev Edition)",
+    "type": "widget",
+    "component": "./VControl.qml",
+    "icon": "rocket",
+    "capabilities": [
+        "dankbar-widget"
+    ],
+    "permissions": [
+        "settings_read",
+        "settings_write",
+        "process"
+    ]
+}
