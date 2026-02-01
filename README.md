@@ -1,4 +1,4 @@
-# V-Manager Plugin for DankMaterialShell
+# Openclaw-Manager Plugin for DankMaterialShell
 
 **Minimal System Kill Switch for V Assistant.**
 
