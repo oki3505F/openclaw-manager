@@ -1,12 +1,13 @@
 {
-    "id": "vManager",
-    "name": "V-Manager",
-    "version": "1.0.0",
+    "id": "openclawManager",
+    "name": "OpenClaw Manager",
+    "version": "1.0.1",
     "description": "System Kill Switch for V Assistant",
     "author": "V (Dev Edition)",
     "type": "widget",
     "component": "./VControl.qml",
     "icon": "rocket",
+    "screenshot": "https://raw.githubusercontent.com/oki3505F/openclaw-manager/main/screenshot.png",
     "capabilities": [
         "dankbar-widget"
     ],
